@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
   <img src="https://img.shields.io/badge/Telegram%20Bot-Active-brightgreen?style=for-the-badge&logo=telegram">
   <img src="https://img.shields.io/badge/Google%20Gemini-AI-yellow?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/TU_USUARIO/Futursat-Telegram-Bot?style=for-the-badge">
+  <img src="https://img.shields.io/github/license/hmonra/AI-TelegramBot?style=for-the-badge">
 </p>
 
 ---
