@@ -30,6 +30,7 @@
 ```bash
 git clone https://github.com/hmonra/AI-TelegramBot.git
 cd AI-TelegramBot
+```
 
 🐍 2️⃣ Crea un entorno virtual (Opcional, pero recomendado)
 python -m venv venv
