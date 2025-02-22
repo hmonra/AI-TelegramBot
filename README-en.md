@@ -46,7 +46,7 @@ Before running the bot, edit the code and add:
 - Database credentials.
 
 ### 🚀 5️⃣ Run the bot
-python bot.py
+python main.py
 
 🎉 Your bot is now running and ready to assist on Telegram!
 
