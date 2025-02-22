@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Telegram AI Bot - Asistente Inteligente para Telegram 🤖</h1>
+<h1 align="center">🚀 Telegram AI Bot - Asistente Inteligente 🤖</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
