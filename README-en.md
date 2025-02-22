@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Telegram AI Bot - Smart Assistant for Telegram 🤖</h1>
+<h1 align="center">🚀 Telegram AI Bot - Smart Assistant 🤖</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python">
@@ -30,37 +30,39 @@
 ```bash
 git clone https://github.com/hmonra/AI-TelegramBot.git
 cd AI-TelegramBot
+````
+### 🐍 2️⃣ Create a virtual environment (Optional but recommended)
+- python -m venv venv
+- source venv/bin/activate  # macOS/Linux
+- venv\Scripts\activate  # Windows
 
-🐍 2️⃣ Create a virtual environment (Optional but recommended)
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate  # Windows
-
-📥 3️⃣ Install dependencies
+### 📥 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-🔑 4️⃣ Set up your credentials
+### 🔑 4️⃣ Set up your credentials
 Before running the bot, edit the code and add:
 - TOKEN → Your Telegram bot token.
 - GOOGLE_API_KEY → Your Google Gemini API key.
 - Database credentials.
 
-🚀 5️⃣ Run the bot
+### 🚀 5️⃣ Run the bot
 python bot.py
 
 🎉 Your bot is now running and ready to assist on Telegram!
 
-🛡 Built-in Security
+---
+
+## 🛡 Built-in Security
 ✅ bcrypt-encrypted password to prevent unauthorized access.
 ✅ Secure database connection using SSL.
 ✅ Efficient management of authenticated users.
 
 📜 requirements.txt File
 This is the list of dependencies required to run the bot:
-bcrypt
-pg8000
-python-telegram-bot
-google-generativeai
+- bcrypt
+- pg8000
+- python-telegram-bot
+- google-generativeai
 
 📌 Make sure you have Python 3.10 or higher installed.
 
