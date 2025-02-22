@@ -31,37 +31,38 @@
 git clone https://github.com/hmonra/AI-TelegramBot.git
 cd AI-TelegramBot
 ```
+### 🐍 2️⃣ Crea un entorno virtual (Opcional, pero recomendado)
+- python -m venv venv
+- source venv/bin/activate  # macOS/Linux
+- venv\Scripts\activate  # Windows
 
-🐍 2️⃣ Crea un entorno virtual (Opcional, pero recomendado)
-python -m venv venv
-source venv/bin/activate  # macOS/Linux
-venv\Scripts\activate  # Windows
-
-📥 3️⃣ Instala las dependencias
+### 📥 3️⃣ Instala las dependencias
 pip install -r requirements.txt
 
-🔑 4️⃣ Configura tus credenciales
+### 🔑 4️⃣ Configura tus credenciales
 Antes de ejecutar el bot, edita el código y añade:
 - TOKEN → Token del bot de Telegram.
 - GOOGLE_API_KEY → API Key de Google Gemini.
 - Credenciales de la base de datos.
 
-🚀 5️⃣ Ejecuta el bot
+### 🚀 5️⃣ Ejecuta el bot
 python bot.py
 
 🎉 ¡Tu bot está en funcionamiento y listo para ayudar en Telegram!
 
-🛡 Seguridad Integrada
-✅ Contraseña cifrada con bcrypt para evitar accesos no autorizados.
+---
+
+## 🛡 Seguridad Integrada
+✅ Contraseña cifrada con bcrypt para evitar accesos no autorizados. 
 ✅ Conexión segura a la base de datos con SSL.
 ✅ Gestión eficiente de usuarios autenticados.
 
 📜 Archivo requirements.txt
 Este es el listado de dependencias necesarias para ejecutar el bot:
-bcrypt
-pg8000
-python-telegram-bot
-google-generativeai
+- bcrypt
+- pg8000
+- python-telegram-bot
+- google-generativeai
 
 📌 Asegúrate de tener Python 3.10 o superior instalado.
 
