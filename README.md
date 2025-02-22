@@ -46,7 +46,7 @@ Antes de ejecutar el bot, edita el código y añade:
 - Credenciales de la base de datos.
 
 ### 🚀 5️⃣ Ejecuta el bot
-python bot.py
+python main.py
 
 🎉 ¡Tu bot está en funcionamiento y listo para ayudar en Telegram!
 
