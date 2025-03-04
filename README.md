@@ -67,11 +67,11 @@ Este es el listado de dependencias necesarias para ejecutar el bot:
 📌 Asegúrate de tener Python 3.10 o superior instalado.
 
 🤝 Contribuciones
-💡 ¿Tienes ideas para mejorar este bot?
-Siéntete libre de hacer un fork, proponer cambios o abrir un issue en GitHub. ¡Las contribuciones son bienvenidas! 🚀
+- 💡 ¿Tienes ideas para mejorar este bot?
+- Siéntete libre de hacer un fork, proponer cambios o abrir un issue en GitHub. ¡Las contribuciones son bienvenidas! 🚀
 
 Si te gusta este proyecto, no olvides dejar una ⭐ en GitHub. 😃
 
 📜 Licencia
-Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
+- Este proyecto está bajo la licencia MIT. Puedes usarlo, modificarlo y distribuirlo libremente.
 
