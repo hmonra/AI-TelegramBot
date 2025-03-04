@@ -17,11 +17,11 @@
 ---
 
 ## 🌟 **Características Destacadas**
-✅ **IA Potente**: Basado en **Google Gemini**, proporciona respuestas precisas y en tiempo real.  
-✅ **Seguridad de Nivel Empresarial**: Acceso restringido mediante una **contraseña cifrada con bcrypt**. 🔐  
-✅ **Base de Datos Integrada**: Guarda interacciones para optimizar futuras respuestas. 📊  
-✅ **Fácil de Usar**: Instalación y configuración en **minutos**. ⏳  
-✅ **Código Optimizado y Mantenible**: Escrito en **Python** con las mejores prácticas. 🏆  
+- ✅ **IA Potente**: Basado en **Google Gemini**, proporciona respuestas precisas y en tiempo real.  
+- ✅ **Seguridad de Nivel Empresarial**: Acceso restringido mediante una **contraseña cifrada con bcrypt**. 🔐  
+- ✅ **Base de Datos Integrada**: Guarda interacciones para optimizar futuras respuestas. 📊  
+- ✅ **Fácil de Usar**: Instalación y configuración en **minutos**. ⏳  
+- ✅ **Código Optimizado y Mantenible**: Escrito en **Python** con las mejores prácticas. 🏆  
 
 ---
 
@@ -53,9 +53,9 @@ python main.py
 ---
 
 ## 🛡 Seguridad Integrada
-✅ Contraseña cifrada con bcrypt para evitar accesos no autorizados. 
-✅ Conexión segura a la base de datos con SSL.
-✅ Gestión eficiente de usuarios autenticados.
+- ✅ Contraseña cifrada con bcrypt para evitar accesos no autorizados. 
+- ✅ Conexión segura a la base de datos con SSL.
+- ✅ Gestión eficiente de usuarios autenticados.
 
 📜 Archivo requirements.txt
 Este es el listado de dependencias necesarias para ejecutar el bot:
